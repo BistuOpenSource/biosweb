@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎
 
-You can use the [editor on GitHub](https://github.com/BistuOpenSource/biosweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎访问北京信息科技大学开源软件协会。缩写为BIOS。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+北京信息科技大学开源软件协会（简称BIOS）是北京信息科技大学计算机学院下属的校级社团，社团的活动为：学习开源软件开发技术；支持“开源软件开发技术”课程；参加开源会议、活动、比赛等。
 
-### Markdown
+BIOS于2020年9月正式注册成立。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 社团管理
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 联系我们
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BistuOpenSource/biosweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
